@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/%7BTodo-APP%20%7D/static/css/main.9604ca22.css",
+    "main.js": "/%7BTodo-APP%20%7D/static/js/main.8be4da2b.js",
+    "static/js/453.37753ddd.chunk.js": "/%7BTodo-APP%20%7D/static/js/453.37753ddd.chunk.js",
+    "static/media/Rectangle 2.png": "/%7BTodo-APP%20%7D/static/media/Rectangle 2.8ef6424aff85e770781e.png",
+    "static/media/tick.jpeg": "/%7BTodo-APP%20%7D/static/media/tick.afbfff1674029e4b10c6.jpeg",
+    "static/media/deletemarked.webp": "/%7BTodo-APP%20%7D/static/media/deletemarked.be2cfc1256f3a0f71630.webp",
+    "index.html": "/%7BTodo-APP%20%7D/index.html",
+    "main.9604ca22.css.map": "/%7BTodo-APP%20%7D/static/css/main.9604ca22.css.map",
+    "main.8be4da2b.js.map": "/%7BTodo-APP%20%7D/static/js/main.8be4da2b.js.map",
+    "453.37753ddd.chunk.js.map": "/%7BTodo-APP%20%7D/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9604ca22.css",
+    "static/js/main.8be4da2b.js"
+  ]
+}
