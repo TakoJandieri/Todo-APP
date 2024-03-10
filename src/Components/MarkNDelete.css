@@ -1,0 +1,54 @@
+.markUnmark {
+  border: none;
+  background-color: white;
+}
+
+.markUnmark:hover {
+  transform: scale(1.1);
+}
+
+.markImg {
+  filter: invert(0%);
+  width: 20px;
+}
+
+.markImg:hover {
+  filter: invert(40%) sepia(99%) saturate(408%) hue-rotate(91deg)
+    brightness(88%) contrast(94%);
+}
+
+.markImgPress {
+  width: 20px;
+  filter: invert(40%) sepia(99%) saturate(408%) hue-rotate(91deg)
+    brightness(88%) contrast(94%);
+}
+
+.markImgPress:hover {
+  filter: invert(0%);
+}
+
+.deleteMarked {
+  background-color: white;
+
+  border: none;
+}
+
+.deleteMarked:hover {
+  transform: scale(1.1);
+}
+
+.deleteMarked:hover > .deleteMarkedImg {
+  filter: invert(10%) sepia(78%) saturate(5352%) hue-rotate(341deg)
+    brightness(90%) contrast(104%);
+}
+
+.deleteMarkedImg {
+  width: 20px;
+  filter: invert(31%) sepia(76%) saturate(2822%) hue-rotate(343deg)
+    brightness(106%) contrast(112%);
+}
+
+.deleteConfirm {
+  position: absolute;
+  z-index: 1;
+}

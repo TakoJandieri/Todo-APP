@@ -1,0 +1,39 @@
+.container {
+  width: 100%;
+  display: flex;
+  background-color: blueviolet;
+  justify-content: center;
+  align-self: center;
+  font-family: Russo One;
+  font-weight: 400;
+  color: #ffff;
+  position: relative;
+  border-radius: 10%;
+}
+
+.dateContainer {
+  z-index: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-self: flex-end;
+  align-items: flex-end;
+  width: 100%;
+  position: absolute;
+  text-align: right;
+  right: 24px;
+}
+
+.coverPhoto {
+  z-index: 0;
+  width: 100%;
+}
+
+.dateString {
+  font-size: 18px;
+  line-height: 21.69px;
+}
+
+.timeString {
+  font-size: 48px;
+  line-height: 57.84px;
+}

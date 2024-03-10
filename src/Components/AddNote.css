@@ -1,0 +1,77 @@
+.notesContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  align-items: center;
+  background-color: #fff;
+  height: 400px;
+}
+
+.noteToAddContainer {
+  display: flex;
+
+  gap: 10px;
+}
+
+.noteInput {
+  width: 275px;
+  height: 49px;
+  background-color: #ebeff2;
+  border: none;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+
+.addButton {
+  width: 88px;
+  background-color: #20eeb0;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.addButton:hover {
+  background-color: #04e0a8;
+}
+
+.activeNotesList {
+  list-style-type: none;
+
+  align-items: flex-start;
+  justify-content: space-between;
+
+  padding: 0;
+  margin: 0;
+  overflow: scroll;
+  height: 200px;
+}
+
+.notes {
+  display: flex;
+  width: 373px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.noteText {
+  font: "inter";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21.78px;
+  margin-bottom: 5px;
+  width: 300px;
+  height: 30px;
+  overflow: scroll;
+  scroll-margin: 5px;
+}
+.noteTime {
+  font-family: "inter";
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16.94px;
+  color: #888888;
+  margin: 0;
+}
