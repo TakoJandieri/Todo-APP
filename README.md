@@ -10,20 +10,15 @@ This is a solution to the Todo APP challenge
 
 ### Screenshot
 
-#### Mobile
-
-![WebPage Preview](/previews/Screenshot from 2024-03-10 23-05-20.png)
-![WebPage Preview](/previews/Screenshot from 2024-03-10 23-06-05.png)
-
-![WebPage Preview](/previews/Screenshot from 2024-03-10 23-08-01.png)
-![WebPage Preview](/previews/Screenshot from 2024-03-10 23-08-34.png)
-
-![WebPage Preview](/previews/Screenshot from 2024-03-10 23-09-01.png)
-
 #### Desktop
 
-![WebPage Preview](/public/previews/desktopFirstPage.png)
-![WebPage Preview](/public/previews/desktopGame.png)
+![WebPage Preview](/public/preview/Screenshot%20from%202024-03-10%2023-05-20.png)
+![WebPage Preview](/public/preview/Screenshot%20from%202024-03-10%2023-06-05.png)
+
+![WebPage Preview](/public/preview/Screenshot%20from%202024-03-10%2023-08-01.png)
+![WebPage Preview](/public/preview/Screenshot%20from%202024-03-10%2023-08-34.png)
+
+![WebPage Preview](/public/preview/Screenshot%20from%202024-03-10%2023-09-01.png)
 
 ### Built with
 
