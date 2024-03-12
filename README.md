@@ -4,7 +4,7 @@ This is a solution to the Todo APP challenge
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/TakoJandieri/Todo-APP/tree/main/src)
+- Solution URL: [Click here](https://github.com/TakoJandieri/Todo-APP/)
 
 - Live Site URL: [Click here](https://takojandieri.github.io/Todo-APP/).
 
